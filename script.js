@@ -1,5 +1,5 @@
 Swal.fire(
   'Transaction Successful',
-  'Congratularions your Sportybet account has been credited with the some of NGN 200,000.00',
+  '5,000.00 has beeen credited into your account',
   'success'
 )
