@@ -1,5 +1,5 @@
 Swal.fire(
-  'Transaction Successful',
-  '5,000.00 has beeen credited into your account',
-  'success'
+  'REGISTRATION FAILED',
+  'User not found..failed to verify bill',
+  'failed'
 )
